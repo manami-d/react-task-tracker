@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This course is from [React JS Crash Course 2021 by Brad Traversy](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+This course is from [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8) by Brad Traversy
 
 ## Available Scripts
 
