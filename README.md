@@ -1,5 +1,14 @@
 # React Task Tracker
+
+## Description
+
 This course is from [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8) by Brad Traversy
+
+### What I learnt from this?
+- How to create each component and import them onto the main file
+- Syntax of React
+- How to create an app with React from instralling the application to the end
+
 
 ## Getting Started with Create React App
 
